@@ -11,7 +11,7 @@ permalink: /links/
 
 #### Machine Learning
 * [Building Management and Smart Meter DataSet](https://ami-solution.github.io/bmsdatasets/)
-* [iPython and Jupyter Notebook](https://mybinder.org/v2/gh/Ami-Solution/MachineLearning-Smart-Meter-Analytics/master)
+* [Smart Meter iPython and Jupyter Notebook](https://mybinder.org/v2/gh/Ami-Solution/MachineLearning-Smart-Meter-Analytics/master)
 
 #### R
 * [R-bloggers](https://www.r-bloggers.com/) - I'm contributor.
