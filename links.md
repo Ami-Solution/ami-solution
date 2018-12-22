@@ -3,6 +3,16 @@ layout: page
 title: Links
 permalink: /links/
 ---
+
+
+#### Awesome curated list of advanced-metering-infrastructure and Smart Meter
+* [Awesome curated list of advanced metering infrastructure solutions](https://ami-solution.github.io/awesome-advanced-metering-infrastructure/)
+* [Smart Meter Vendors](https://www.stuba.sk/english.html?page_id=132)
+
+#### Machine Learning
+* [Building Management and Smart Meter DataSet](https://ami-solution.github.io/bmsdatasets/)
+* [iPython and Jupyter Notebook](https://mybinder.org/v2/gh/Ami-Solution/MachineLearning-Smart-Meter-Analytics/master)
+
 #### R
 * [R-bloggers](https://www.r-bloggers.com/) - I'm contributor.
 * [R-weekly](https://rweekly.org) - Already four posts from here is mentioned there.
@@ -10,6 +20,4 @@ permalink: /links/
 * [CRAN packages](https://cran.r-project.org/web/packages/)
 * [CRAN Task Views](https://cran.r-project.org/web/views/)
 
-#### My Faculty and University
-* [FIIT STU](https://www.fiit.stuba.sk/en.html?page_id=749)
-* [STU](https://www.stuba.sk/english.html?page_id=132)
+
