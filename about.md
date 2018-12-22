@@ -16,7 +16,7 @@ AMI Solution is developed by **AMISolution**. Research scopes and domain of inte
  * Data Streams
  * Time Series Forecasting
  
-You can read, in more detail, about the theme of this project in the [research section](https://ami-solution.github.io/research/).
+You can read, in more detail, about the theme of this project in the [research section](https://ami-solution.amisolution.net/research/).
 
 Interesting **publications** are on:
 
@@ -32,5 +32,5 @@ AMI Solution used an **R** package called **TSrepr** for computing time series r
 
 
 ### Contact us on GitChat or Slack:
-
-[slack](slack)
+[slack](https://amisolution.herokuapp.com)
+[GitChat](https://gitter.im/ERC20-AMIS/Lobby)
